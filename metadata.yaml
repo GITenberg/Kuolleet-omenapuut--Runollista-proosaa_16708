@@ -14,6 +14,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Joel_Lehtonen
     - http://en.wikipedia.org/wiki/Joel_Lehtonen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16708#Kuolleet-omenapuut--Runollista-proosaa
 gutenberg_issued: '2005-09-17'
 gutenberg_type: Text
 identifiers:
